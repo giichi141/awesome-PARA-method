@@ -52,6 +52,7 @@ Discover tools and applications that can help you effectively implement the PARA
 - [**Notion**](https://notion.so) - An all-in-one workspace that combines note-taking, task management, and collaboration features.
   - [PARA Method Template for Notion](https://thomasjfrank.com/templates/para-method-template-for-notion/) - Thomas Frank's template for implementing PARA in Notion. Free.
 - [**Obsidian**](https://obsidian.md) - A powerful note-taking app with a focus on building a knowledge graph, suitable for organizing and linking resources in your PARA setup.
+  - [Obsidian PARA Folder Diagnostic](https://para-diagnostic.vercel.app) - Free tool that suggests a PARA classification for your existing folder structure. Paste your folder names, get a breakdown suggestion with reasoning. No login, no data stored (runs client-side).
 
 ## Contributing
 
